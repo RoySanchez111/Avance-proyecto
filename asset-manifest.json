@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/RoySanchez111/Avance-proyecto.git/static/css/main.75d523b7.css",
-    "main.js": "/RoySanchez111/Avance-proyecto.git/static/js/main.11c594e5.js",
-    "static/media/default-profile-image.png": "/RoySanchez111/Avance-proyecto.git/static/media/default-profile-image.da8cc872fb4a40a6d027.png",
-    "static/media/agregar-azul.png": "/RoySanchez111/Avance-proyecto.git/static/media/agregar-azul.1efcc73e9cec8a7ebcef.png",
-    "static/media/agregar-negro.png": "/RoySanchez111/Avance-proyecto.git/static/media/agregar-negro.20e1228e2666b0f7d473.png",
-    "static/media/editar-azul.png": "/RoySanchez111/Avance-proyecto.git/static/media/editar-azul.17b73fa860da259694e6.png",
-    "static/media/usuarios-azul.png": "/RoySanchez111/Avance-proyecto.git/static/media/usuarios-azul.d4e42d1c9e7bb5f32d47.png",
-    "static/media/consultas-azul.png": "/RoySanchez111/Avance-proyecto.git/static/media/consultas-azul.f60cea139186d61c51da.png",
-    "static/media/editar-negro.png": "/RoySanchez111/Avance-proyecto.git/static/media/editar-negro.b78315789612422461a3.png",
-    "static/media/usuarios-negro.png": "/RoySanchez111/Avance-proyecto.git/static/media/usuarios-negro.7b4af869db4a04470a14.png",
-    "static/media/consultas-negro.png": "/RoySanchez111/Avance-proyecto.git/static/media/consultas-negro.4f09e6c44f20b0f1f978.png",
-    "static/media/flecha-para-cerrar-barra.png": "/RoySanchez111/Avance-proyecto.git/static/media/flecha-para-cerrar-barra.6c36d70482086a60c274.png",
-    "index.html": "/RoySanchez111/Avance-proyecto.git/index.html",
-    "main.75d523b7.css.map": "/RoySanchez111/Avance-proyecto.git/static/css/main.75d523b7.css.map",
-    "main.11c594e5.js.map": "/RoySanchez111/Avance-proyecto.git/static/js/main.11c594e5.js.map"
+    "main.css": "/RoySanchez111/Avance-proyecto/static/css/main.75d523b7.css",
+    "main.js": "/RoySanchez111/Avance-proyecto/static/js/main.b0cb7061.js",
+    "static/media/default-profile-image.png": "/RoySanchez111/Avance-proyecto/static/media/default-profile-image.da8cc872fb4a40a6d027.png",
+    "static/media/agregar-azul.png": "/RoySanchez111/Avance-proyecto/static/media/agregar-azul.1efcc73e9cec8a7ebcef.png",
+    "static/media/agregar-negro.png": "/RoySanchez111/Avance-proyecto/static/media/agregar-negro.20e1228e2666b0f7d473.png",
+    "static/media/editar-azul.png": "/RoySanchez111/Avance-proyecto/static/media/editar-azul.17b73fa860da259694e6.png",
+    "static/media/usuarios-azul.png": "/RoySanchez111/Avance-proyecto/static/media/usuarios-azul.d4e42d1c9e7bb5f32d47.png",
+    "static/media/consultas-azul.png": "/RoySanchez111/Avance-proyecto/static/media/consultas-azul.f60cea139186d61c51da.png",
+    "static/media/editar-negro.png": "/RoySanchez111/Avance-proyecto/static/media/editar-negro.b78315789612422461a3.png",
+    "static/media/usuarios-negro.png": "/RoySanchez111/Avance-proyecto/static/media/usuarios-negro.7b4af869db4a04470a14.png",
+    "static/media/consultas-negro.png": "/RoySanchez111/Avance-proyecto/static/media/consultas-negro.4f09e6c44f20b0f1f978.png",
+    "static/media/flecha-para-cerrar-barra.png": "/RoySanchez111/Avance-proyecto/static/media/flecha-para-cerrar-barra.6c36d70482086a60c274.png",
+    "index.html": "/RoySanchez111/Avance-proyecto/index.html",
+    "main.75d523b7.css.map": "/RoySanchez111/Avance-proyecto/static/css/main.75d523b7.css.map",
+    "main.b0cb7061.js.map": "/RoySanchez111/Avance-proyecto/static/js/main.b0cb7061.js.map"
   },
   "entrypoints": [
     "static/css/main.75d523b7.css",
-    "static/js/main.11c594e5.js"
+    "static/js/main.b0cb7061.js"
   ]
 }
