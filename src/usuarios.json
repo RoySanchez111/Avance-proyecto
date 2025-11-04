@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "rol": "Administrador",
+    "nombreCompleto": "Administrador",
+    "correo": "admin@admin.com",
+    "contraseña": "admin123"
+  }
+]
